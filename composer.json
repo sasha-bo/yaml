@@ -1,0 +1,21 @@
+{
+    "name": "erwin/yaml",
+    "version": "1.0",
+    "description": "Reading yaml file to the object",
+    "type": "library",
+    "license": "GNU-3.0-only",
+    "autoload": {
+        "psr-4": {
+            "Erwin\\Yaml\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sasha Bo"
+        }
+    ],
+    "require": {
+        "php": ">=8.1",
+        "symfony/yaml": "^6.3"
+    }
+}
