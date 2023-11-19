@@ -3,7 +3,7 @@
     "version": "1.0",
     "description": "Reading yaml file to the object",
     "type": "library",
-    "license": "GNU-3.0-only",
+    "license": "GPL-3.0-or-later",
     "autoload": {
         "psr-4": {
             "Erwin\\Yaml\\": "src/"
